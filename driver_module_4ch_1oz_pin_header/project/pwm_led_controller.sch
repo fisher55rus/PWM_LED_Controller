@@ -674,7 +674,7 @@ F 1 "Conn_01x05_Male" H 4706 3537 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 4600 3250 50  0001 C CNN
 F 3 "~" H 4600 3250 50  0001 C CNN
 	1    4600 3250
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 Wire Wire Line
 	4800 3050 5100 3050
@@ -882,13 +882,13 @@ Connection ~ 14500 2850
 $Comp
 L Connector:Conn_01x04_Male J3
 U 1 1 5CA82437
-P 14300 3700
-F 0 "J3" H 14406 3978 50  0000 C CNN
-F 1 "Conn_01x04_Male" H 14406 3887 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 14300 3700 50  0001 C CNN
-F 3 "~" H 14300 3700 50  0001 C CNN
-	1    14300 3700
-	1    0    0    -1  
+P 14300 3800
+F 0 "J3" H 14406 4078 50  0000 C CNN
+F 1 "Conn_01x04_Male" H 14406 3987 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 14300 3800 50  0001 C CNN
+F 3 "~" H 14300 3800 50  0001 C CNN
+	1    14300 3800
+	1    0    0    1   
 $EndComp
 Wire Wire Line
 	15000 3600 14500 3600
